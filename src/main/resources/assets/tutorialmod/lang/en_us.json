@@ -1,8 +1,14 @@
 {
   "item.tutorialmod.grafite": "Grafite",
   "item.tutorialmod.raw_grafite": "Raw Grafite",
-  "itemGroup.tutorialtab": "GGraf Mod"
 
+  "itemGroup.tutorialtab": "GGraf Mod",
+
+
+  "block.tutorialmod.grafite_block": "Block of Grafite",
+  "block.tutorialmod.grafite_ore": "Grafite Ore",
+  "block.tutorialmod.deepslate_grafite_ore": "Deepslate Grafite Ore",
+  "block.tutorialmod.endstone_grafite_ore": "Endstone Grafite Ore"
 
 
 }
